@@ -26,3 +26,27 @@
 - Reveal Animations When You Scroll. Very Animate.css Friend :-) 
 Easily customize animation settings: style, delay, length, offset, iterations...  
 [wow js](https://mynameismatthieu.com/WOW/)
+
+## Masonry
+- Cascading grid layout library  
+[Masonry](https://masonry.desandro.com/)
+
+
+## Owl Carousel
+- Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.  
+[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+
+
+## Masonry
+- Cascading grid layout library  
+[Masonry](https://masonry.desandro.com/)
+
+
+## Masonry
+- Cascading grid layout library  
+[Masonry](https://masonry.desandro.com/)
+
+
+
+
+
