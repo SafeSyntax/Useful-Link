@@ -11,7 +11,7 @@
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 
 ## Shuffle 
-- Categorize, sort, and filter a responsive grid of items  
+- Categorize, sort, and filter a responsive grid of items   
 [Shuffle](https://vestride.github.io/Shuffle/)
 
 ## Isotop 
@@ -19,10 +19,10 @@
 [Isotop](https://isotope.metafizzy.co/filtering.html)
 
 ## MixItUp
-- A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more...
+- A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more...  
 [MixItUp](https://www.kunkalabs.com/mixitup/)
 
 ## wOw js 
 - Reveal Animations When You Scroll. Very Animate.css Friend :-) 
-Easily customize animation settings: style, delay, length, offset, iterations...
+Easily customize animation settings: style, delay, length, offset, iterations...  
 [wow js](https://mynameismatthieu.com/WOW/)
