@@ -37,17 +37,17 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
 
-## Masonry
-- the last carousel you'll ever need  
-[Slick Slider](http://kenwheeler.github.io/slick/)
+## NiceScroll
+- jQuery Plugin for custom scrollbars on mobile and desktop browsers
+[NiceScroll](https://nicescroll.areaaperta.com//)
 
-## Masonry
-- Cascading grid layout library  
-[Masonry](https://masonry.desandro.com/)
+## jQuery CountTo
+- A jQuery plugin that will count up (or down) to a target number at a specified speed.   
+[jQuery CountTo](https://github.com/mhuggins/jquery-countTo/)
 
-## Masonry
-- Cascading grid layout library  
-[Masonry](https://masonry.desandro.com/)
+## liScroll
+- a jQuery News Ticker made easy  
+[liScroll](http://www.gcmingati.net/wordpress/wp-content/lab/jquery/newsticker/jq-liscroll/scrollanimate.html/)
 
 ## Masonry
 - Cascading grid layout library  
