@@ -38,13 +38,26 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 
 
 ## Masonry
-- Cascading grid layout library  
-[Masonry](https://masonry.desandro.com/)
-
+- the last carousel you'll ever need  
+[Slick Slider](http://kenwheeler.github.io/slick/)
 
 ## Masonry
 - Cascading grid layout library  
 [Masonry](https://masonry.desandro.com/)
+
+## Masonry
+- Cascading grid layout library  
+[Masonry](https://masonry.desandro.com/)
+
+## Masonry
+- Cascading grid layout library  
+[Masonry](https://masonry.desandro.com/)
+
+## Masonry
+- Cascading grid layout library  
+[Masonry](https://masonry.desandro.com/)
+
+
 
 
 
