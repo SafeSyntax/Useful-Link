@@ -1,6 +1,5 @@
 ## Essential jQuery Plugins
-- Hasin Haiyder
-[essential-jquery-plugins](https://github.com/hasinhayder/essential-jquery-plugins)
+[essential-jquery-plugins](https://github.com/hasinhayder/essential-jquery-plugins) - Hasin Haiyder
 
 ## gMap
 [Google Map](https://github.com/hpneo/gmaps)
