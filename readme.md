@@ -70,8 +70,8 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 
 
 * * *
-Learn web design   
-visit [G M Mostakim Billah](https://www.youtube.com/gmmostakimbillah/)
+For Learn Web Design   
+visit [G M Mostakim Billah - Youtube] (https://www.youtube.com/gmmostakimbillah/)
 
 
 
