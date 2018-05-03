@@ -53,9 +53,10 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 - a jQuery News Ticker made easy  
 [liScroll](http://www.gcmingati.net/wordpress/wp-content/lab/jquery/newsticker/jq-liscroll/scrollanimate.html/)
 
-## Masonry
-- Cascading grid layout library  
-[Masonry](https://masonry.desandro.com/)
+## DirectionAwareHoverEffect
+- How to create a direction-aware hover effect using CSS3 and jQuery. The idea is to slide in an overlay from the direction we are moving with the mouse. 
+[DirectionAwareHoverEffect](https://github.com/codrops/DirectionAwareHoverEffect/)
+
 
 ## Masonry
 - Cascading grid layout library  
