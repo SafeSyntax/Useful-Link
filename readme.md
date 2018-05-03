@@ -56,13 +56,12 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 - How to create a direction-aware hover effect using CSS3 and jQuery. The idea is to slide in an overlay from the direction we are moving with the mouse. 
 [DirectionAwareHoverEffect](https://github.com/codrops/DirectionAwareHoverEffect/)
 
-## Modernizr
-- Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.  
-[Modernizr](https://modernizr.com/)
+## Direction aware content reveals. (Hover Effect)
+[Direction Reveal](https://modernizr.com/)
 
 ## Masonry
 - Cascading grid layout library  
-[Masonry](https://masonry.desandro.com/)
+[Masonry](https://nigelotoole.github.io/direction-reveal/)
 
 ## Masonry
 - Cascading grid layout library  
