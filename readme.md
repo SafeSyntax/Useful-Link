@@ -63,9 +63,9 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 ## Direction aware content reveals. (Hover Effect)
 [Direction Reveal](https://modernizr.com/)
 
-## Shuffle
--   
-[]()
+## Packery
+-  Gapless, draggable grid layouts 
+[Packery](https://packery.metafizzy.co/)
 
 ## Shuffle
 -   
