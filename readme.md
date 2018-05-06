@@ -27,7 +27,7 @@
 
 ## Shuffle
 -  Categorize, sort, and filter a responsive grid of items   
-[https://vestride.github.io/Shuffle/](Shuffle)
+[Shuffle](https://vestride.github.io/Shuffle/)
 
 ## wOw js 
 - Reveal Animations When You Scroll. Very Animate.css Friend :-) 
