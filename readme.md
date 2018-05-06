@@ -25,6 +25,10 @@
 - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more...  
 [MixItUp](https://www.kunkalabs.com/mixitup/)
 
+## Shuffle
+-  Categorize, sort, and filter a responsive grid of items   
+[https://vestride.github.io/Shuffle/](Shuffle)
+
 ## wOw js 
 - Reveal Animations When You Scroll. Very Animate.css Friend :-) 
 Easily customize animation settings: style, delay, length, offset, iterations...  
@@ -59,13 +63,22 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 ## Direction aware content reveals. (Hover Effect)
 [Direction Reveal](https://modernizr.com/)
 
-## Masonry
-- Cascading grid layout library  
-[Masonry](https://nigelotoole.github.io/direction-reveal/)
+## Shuffle
+-   
+[]()
 
-## Masonry
-- Cascading grid layout library  
-[Masonry](https://masonry.desandro.com/)
+## Shuffle
+-   
+[]()
+
+## Shuffle
+-   
+[]()
+
+
+
+
+
 
 
 * * *
