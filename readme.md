@@ -72,9 +72,17 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 -  Gapless, draggable grid layouts 
 [Packery](https://packery.metafizzy.co/)
 
+# icons / Fonts
+-----------------------------------------
+## Simple Line Icons Webfont
+[Simple Line Icons ](https://graphicburger.com/simple-line-icons-webfont/)
+
 ## Shuffle
 -   
 []()
+
+
+
 
 ## Shuffle
 -   
