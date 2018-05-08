@@ -13,6 +13,11 @@
 ## Magnific Popup 
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 
+## iLightBox
+- Sleek, smooth, powerful, and revolutionary jQuery lightbox plugin for creative and ambitious web designers and developers.  
+[iLightBox](http://ilightbox.net/)
+
+
 ## Shuffle 
 - Categorize, sort, and filter a responsive grid of items   
 [Shuffle](https://vestride.github.io/Shuffle/)
