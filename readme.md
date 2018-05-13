@@ -78,14 +78,16 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 -  Gapless, draggable grid layouts 
 [Packery](https://packery.metafizzy.co/)
 
+
+## Hover.css v2  
+-  A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.   
+[Hover.css v2](http://ianlunn.github.io/Hover/)
+
+
 # icons / Fonts
 -----------------------------------------
 ## Simple Line Icons Webfont
 [Simple Line Icons ](https://graphicburger.com/simple-line-icons-webfont/)
-
-## Shuffle
--   
-[]()
 
 
 
