@@ -83,6 +83,10 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 -  A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.   
 [Hover.css v2](http://ianlunn.github.io/Hover/)
 
+## Hover Effect Ideas 
+- An inspirational collection of subtle hover effects  
+[Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/index2.html)
+
 
 # icons / Fonts
 -----------------------------------------
@@ -90,9 +94,6 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 [Simple Line Icons ](https://graphicburger.com/simple-line-icons-webfont/)
 
 
-## Hover Effect Ideas  
-- An inspirational collection of subtle hover effects  
-[Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/index2.html)
 
 
 
