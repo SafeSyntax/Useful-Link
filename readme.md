@@ -44,6 +44,12 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 [Masonry](https://masonry.desandro.com/)
 
 
+## imagesLoaded
+- JavaScript is all like "You images done yet or what?  
+[imagesLoaded](https://imagesloaded.desandro.com/)
+
+
+
 ## Owl Carousel
 - Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.  
 [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
