@@ -90,13 +90,16 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 [Simple Line Icons ](https://graphicburger.com/simple-line-icons-webfont/)
 
 
+## Hover Effect Ideas  
+- An inspirational collection of subtle hover effects  
+[Hover Effect Ideas](https://tympanus.net/Development/HoverEffectIdeas/index2.html)
+
+
 
 
 ## Shuffle
 -   
 []()
-
-
 
 
 
