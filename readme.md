@@ -88,6 +88,10 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 - You can reveal pretty rating stars by this plugin.   
 [Star Rating (jQuery Plugin)](http://irfandurmus.com/projects/jquery-star-rating-plugin/)
 
+## Rate Yo!
+- RateYo! is a tiny and flexible jQuery star rating plugin, it uses SVG to render rating, so no images required.    
+[Rate Yo!](http://rateyo.fundoocode.ninja/)
+
 
 ## Hover.css v2  
 -  A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.   
@@ -110,9 +114,7 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 
 
 
-## title
--   
-[]()
+
 
 ## title
 -   
