@@ -81,6 +81,11 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 [Packery](https://packery.metafizzy.co/)
 
 
+## Sticky-Kit
+- A jQuery plugin for making smart sticky elements  
+[Sticky-Kit](http://leafo.net/sticky-kit/)
+
+
 ## Hover.css v2  
 -  A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.   
 [Hover.css v2](http://ianlunn.github.io/Hover/)
@@ -101,9 +106,6 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 
 
 
-## title
--   
-[]()
 
 
 ## title
