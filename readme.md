@@ -80,10 +80,13 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 -  Gapless, draggable grid layouts 
 [Packery](https://packery.metafizzy.co/)
 
-
 ## Sticky-Kit
 - A jQuery plugin for making smart sticky elements  
 [Sticky-Kit](http://leafo.net/sticky-kit/)
+
+## Star Rating (jQuery Plugin)
+- You can reveal pretty rating stars by this plugin.   
+[Star Rating (jQuery Plugin)](http://irfandurmus.com/projects/jquery-star-rating-plugin/)
 
 
 ## Hover.css v2  
@@ -107,10 +110,6 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 
 
 
-
-## title
--   
-[]()
 
 
 ## title
