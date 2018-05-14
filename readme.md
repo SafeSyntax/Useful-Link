@@ -7,6 +7,16 @@
 ## Nivo Slider
 [Nivo Slider Demo](https://www.jqueryscript.net/slider/nivo-slider.html)
 
+## Owl Carousel
+- Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.  
+[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+
+## slick
+- the last carousel you'll ever need  
+[slick slider](http://kenwheeler.github.io/slick/)
+
+
+
 ## Prettyphoto
 [prettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/)
 
@@ -43,17 +53,9 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 - Cascading grid layout library  
 [Masonry](https://masonry.desandro.com/)
 
-
 ## imagesLoaded
 - JavaScript is all like "You images done yet or what?  
 [imagesLoaded](https://imagesloaded.desandro.com/)
-
-
-
-## Owl Carousel
-- Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.  
-[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
-
 
 ## NiceScroll
 - jQuery Plugin for custom scrollbars on mobile and desktop browsers
@@ -98,7 +100,18 @@ Easily customize animation settings: style, delay, length, offset, iterations...
 
 
 
-## Shuffle
+
+## title
+-   
+[]()
+
+
+## title
+-   
+[]()
+
+
+## title
 -   
 []()
 
